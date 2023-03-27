@@ -1,0 +1,553 @@
+[INFO] [01/06:23 05/20/14] ********************(  Login method  )**********************
+[INFO] [01/06:23 05/20/14] ===============================================================
+[INFO] [01/06:23 05/20/14]  Browser invoked successfully 
+[INFO] [01/06:23 05/20/14]  provided url opened successfully 
+[WARN] [01/06:23 05/20/14]  entered data may not be correct, please enter valid data 
+[ERROR] [01/06:23 05/20/14]  clicking on submit button failed, due to it is under disabled mode 
+[FATAL] [01/06:23 05/20/14]  data can't be entered into database because database is filled, hence stopping execution 
+[INFO] [01/06:23 05/20/14] ***************************************** **********************
+[INFO] [01/06:23 05/20/14] ===============================================================
+[INFO] [01/06:23 05/20/31] ********************( Invoking the browser )**********************
+[INFO] [01/06:23 05/20/31] ===============================================================
+[INFO] [01/06:23 05/20/33] Launching browser sucessfully chrome
+[INFO] [01/06:23 05/20/34] https://acme-test.uipath.com/login invoked successfully
+[INFO] [01/06:23 05/20/35] Login_username_txtbox_id   and its value is	emailis returned the element 
+[INFO] [01/06:23 05/20/36] Login_password_txtbox_id   and its value is	passwordis returned the element 
+[INFO] [01/06:23 05/20/37] Login_signin_button_xpath   and its value is	//*[@type='submit']is returned the element 
+[INFO] [01/06:23 05/20/41] login Action completed  successfully
+[INFO] [01/06:23 05/20/41] browser closed successfully
+[INFO] [01/06:23 05/20/41] ***************************************** **********************
+[INFO] [01/06:23 05/20/41] ===============================================================
+[INFO] [01/06:23 05/20/41] ********************( Invoking the browser )**********************
+[INFO] [01/06:23 05/20/41] ===============================================================
+[INFO] [01/06:23 05/20/43] Launching browser sucessfully chrome
+[INFO] [01/06:23 05/20/44] https://acme-test.uipath.com/login invoked successfully
+[INFO] [01/06:23 05/20/45] Login_username_txtbox_id   and its value is	emailis returned the element 
+[INFO] [01/06:23 05/20/46] Login_password_txtbox_id   and its value is	passwordis returned the element 
+[INFO] [01/06:23 05/20/46] Login_signin_button_xpath   and its value is	//*[@type='submit']is returned the element 
+[INFO] [01/06:23 05/20/47] login Action completed  successfully
+[INFO] [01/06:23 05/20/47] browser closed successfully
+[INFO] [01/06:23 05/20/47] ***************************************** **********************
+[INFO] [01/06:23 05/20/47] ===============================================================
+[INFO] [01/06:23 05/20/47] ********************( Invoking the browser )**********************
+[INFO] [01/06:23 05/20/47] ===============================================================
+[INFO] [01/06:23 05/20/48] Launching browser sucessfully chrome
+[INFO] [01/06:23 05/20/49] https://acme-test.uipath.com/login invoked successfully
+[INFO] [01/06:23 05/20/50] Login_username_txtbox_id   and its value is	emailis returned the element 
+[INFO] [01/06:23 05/20/51] Login_password_txtbox_id   and its value is	passwordis returned the element 
+[INFO] [01/06:23 05/20/52] Login_signin_button_xpath   and its value is	//*[@type='submit']is returned the element 
+[INFO] [01/06:23 05/20/52] login Action completed  successfully
+[INFO] [01/06:23 05/20/53] browser closed successfully
+[INFO] [01/06:23 05/20/53] ***************************************** **********************
+[INFO] [01/06:23 05/20/53] ===============================================================
+[INFO] [01/06:23 05/20/53] ********************( Invoking the browser )**********************
+[INFO] [01/06:23 05/20/53] ===============================================================
+[INFO] [01/06:23 05/20/54] Launching browser sucessfully chrome
+[INFO] [01/06:23 05/20/55] https://acme-test.uipath.com/login invoked successfully
+[INFO] [01/06:23 05/20/56] Login_username_txtbox_id   and its value is	emailis returned the element 
+[INFO] [01/06:23 05/20/57] Login_password_txtbox_id   and its value is	passwordis returned the element 
+[INFO] [01/06:23 05/20/58] Login_signin_button_xpath   and its value is	//*[@type='submit']is returned the element 
+[INFO] [01/06:23 05/20/58] login Action completed  successfully
+[INFO] [01/06:23 05/20/58] browser closed successfully
+[INFO] [01/06:23 05/20/58] ***************************************** **********************
+[INFO] [01/06:23 05/20/58] ===============================================================
+[INFO] [01/07:23 10/07/19] ********************( Invoking the browser )**********************
+[INFO] [01/07:23 10/07/19] ===============================================================
+[INFO] [01/07:23 10/07/24] Launching browser sucessfully chrome
+[INFO] [01/07:23 10/07/26] https://acme-test.uipath.com/login invoked successfully
+[INFO] [01/07:23 10/07/27] Login_username_txtbox_id   and its value is	emailis returned the element 
+[INFO] [01/07:23 10/07/29] Login_password_txtbox_id   and its value is	passwordis returned the element 
+[INFO] [01/07:23 10/07/31] Login_signin_button_xpath   and its value is	//*[@type='submit']is returned the element 
+[INFO] [01/07:23 10/07/35] login Action completed  successfully
+[INFO] [01/07:23 10/07/35] browser closed successfully
+[INFO] [01/07:23 10/07/35] ***************************************** **********************
+[INFO] [01/07:23 10/07/35] ===============================================================
+[INFO] [01/07:23 10/07/35] ********************( Invoking the browser )**********************
+[INFO] [01/07:23 10/07/35] ===============================================================
+[INFO] [01/07:23 10/07/37] Launching browser sucessfully chrome
+[INFO] [01/07:23 10/07/38] https://acme-test.uipath.com/login invoked successfully
+[INFO] [01/07:23 10/07/39] Login_username_txtbox_id   and its value is	emailis returned the element 
+[INFO] [01/07:23 10/07/40] Login_password_txtbox_id   and its value is	passwordis returned the element 
+[INFO] [01/07:23 10/07/41] Login_signin_button_xpath   and its value is	//*[@type='submit']is returned the element 
+[INFO] [01/07:23 10/07/41] login Action completed  successfully
+[INFO] [01/07:23 10/07/43] browser closed successfully
+[INFO] [01/07:23 10/07/43] ***************************************** **********************
+[INFO] [01/07:23 10/07/43] ===============================================================
+[INFO] [01/07:23 10/07/43] ********************( Invoking the browser )**********************
+[INFO] [01/07:23 10/07/43] ===============================================================
+[INFO] [01/07:23 10/07/44] Launching browser sucessfully chrome
+[INFO] [01/07:23 10/07/45] https://acme-test.uipath.com/login invoked successfully
+[INFO] [01/07:23 10/07/46] Login_username_txtbox_id   and its value is	emailis returned the element 
+[INFO] [01/07:23 10/07/47] Login_password_txtbox_id   and its value is	passwordis returned the element 
+[INFO] [01/07:23 10/07/48] Login_signin_button_xpath   and its value is	//*[@type='submit']is returned the element 
+[INFO] [01/07:23 10/07/48] login Action completed  successfully
+[INFO] [01/07:23 10/07/48] browser closed successfully
+[INFO] [01/07:23 10/07/48] ***************************************** **********************
+[INFO] [01/07:23 10/07/48] ===============================================================
+[INFO] [01/07:23 10/07/48] ********************( Invoking the browser )**********************
+[INFO] [01/07:23 10/07/48] ===============================================================
+[INFO] [01/07:23 10/07/50] Launching browser sucessfully chrome
+[INFO] [01/07:23 10/07/51] https://acme-test.uipath.com/login invoked successfully
+[INFO] [01/07:23 10/07/52] Login_username_txtbox_id   and its value is	emailis returned the element 
+[INFO] [01/07:23 10/07/53] Login_password_txtbox_id   and its value is	passwordis returned the element 
+[INFO] [01/07:23 10/07/54] Login_signin_button_xpath   and its value is	//*[@type='submit']is returned the element 
+[INFO] [01/07:23 10/07/54] login Action completed  successfully
+[INFO] [01/07:23 10/07/54] browser closed successfully
+[INFO] [01/07:23 10/07/54] ***************************************** **********************
+[INFO] [01/07:23 10/07/54] ===============================================================
+[INFO] [01/07:23 10/08/25] ********************( Invoking the browser )**********************
+[INFO] [01/07:23 10/08/25] ===============================================================
+[INFO] [01/07:23 10/08/26] Launching browser sucessfully chrome
+[INFO] [01/07:23 10/08/28] https://acme-test.uipath.com/login invoked successfully
+[INFO] [01/07:23 10/08/28] Login_username_txtbox_id   and its value is	emailis returned the element 
+[INFO] [01/07:23 10/08/29] Login_password_txtbox_id   and its value is	passwordis returned the element 
+[INFO] [01/07:23 10/08/31] Login_signin_button_xpath   and its value is	//*[@type='submit']is returned the element 
+[INFO] [01/07:23 10/09/03] ********************( Invoking the browser )**********************
+[INFO] [01/07:23 10/09/03] ===============================================================
+[INFO] [01/07:23 10/09/07] Launching browser sucessfully chrome
+[INFO] [01/07:23 10/09/08] https://acme-test.uipath.com/login invoked successfully
+[INFO] [01/07:23 10/09/09] Login_username_txtbox_id   and its value is	emailis returned the element 
+[INFO] [01/07:23 10/09/10] Login_password_txtbox_id   and its value is	passwordis returned the element 
+[INFO] [01/07:23 10/09/11] Login_signin_button_xpath   and its value is	//*[@type='submit']is returned the element 
+[INFO] [01/07:23 10/09/59] ********************( Invoking the browser )**********************
+[INFO] [01/07:23 10/09/59] ===============================================================
+[INFO] [01/07:23 10/10/02] Launching browser sucessfully chrome
+[INFO] [01/07:23 10/10/04] https://acme-test.uipath.com/login invoked successfully
+[INFO] [01/07:23 10/10/05] Login_username_txtbox_id   and its value is	emailis returned the element 
+[INFO] [01/07:23 10/10/06] Login_password_txtbox_id   and its value is	passwordis returned the element 
+[INFO] [01/07:23 10/10/07] Login_signin_button_xpath   and its value is	//*[@type='submit']is returned the element 
+[INFO] [01/07:23 10/10/11] login Action completed  successfully
+[INFO] [01/07:23 10/10/12] browser closed successfully
+[INFO] [01/07:23 10/10/12] ***************************************** **********************
+[INFO] [01/07:23 10/10/12] ===============================================================
+[INFO] [01/07:23 10/10/12] ********************( Invoking the browser )**********************
+[INFO] [01/07:23 10/10/12] ===============================================================
+[INFO] [01/07:23 10/10/14] Launching browser sucessfully chrome
+[INFO] [01/07:23 10/10/15] https://acme-test.uipath.com/login invoked successfully
+[INFO] [01/07:23 10/10/16] Login_username_txtbox_id   and its value is	emailis returned the element 
+[INFO] [01/07:23 10/10/17] Login_password_txtbox_id   and its value is	passwordis returned the element 
+[INFO] [01/07:23 10/10/18] Login_signin_button_xpath   and its value is	//*[@type='submit']is returned the element 
+[INFO] [01/07:23 10/10/18] login Action completed  successfully
+[INFO] [01/07:23 10/10/18] browser closed successfully
+[INFO] [01/07:23 10/10/18] ***************************************** **********************
+[INFO] [01/07:23 10/10/18] ===============================================================
+[INFO] [01/07:23 10/10/18] ********************( Invoking the browser )**********************
+[INFO] [01/07:23 10/10/18] ===============================================================
+[INFO] [01/07:23 10/10/19] Launching browser sucessfully chrome
+[INFO] [01/07:23 10/10/20] https://acme-test.uipath.com/login invoked successfully
+[INFO] [01/07:23 10/10/21] Login_username_txtbox_id   and its value is	emailis returned the element 
+[INFO] [01/07:23 10/10/22] Login_password_txtbox_id   and its value is	passwordis returned the element 
+[INFO] [01/07:23 10/10/23] Login_signin_button_xpath   and its value is	//*[@type='submit']is returned the element 
+[INFO] [01/07:23 10/10/23] login Action completed  successfully
+[INFO] [01/07:23 10/10/24] browser closed successfully
+[INFO] [01/07:23 10/10/24] ***************************************** **********************
+[INFO] [01/07:23 10/10/24] ===============================================================
+[INFO] [01/07:23 10/10/24] ********************( Invoking the browser )**********************
+[INFO] [01/07:23 10/10/24] ===============================================================
+[INFO] [01/07:23 10/10/25] Launching browser sucessfully chrome
+[INFO] [01/07:23 10/10/26] https://acme-test.uipath.com/login invoked successfully
+[INFO] [01/07:23 10/10/27] Login_username_txtbox_id   and its value is	emailis returned the element 
+[INFO] [01/07:23 10/10/28] Login_password_txtbox_id   and its value is	passwordis returned the element 
+[INFO] [01/07:23 10/10/29] Login_signin_button_xpath   and its value is	//*[@type='submit']is returned the element 
+[INFO] [01/07:23 10/10/29] login Action completed  successfully
+[INFO] [01/07:23 10/10/29] browser closed successfully
+[INFO] [01/07:23 10/10/29] ***************************************** **********************
+[INFO] [01/07:23 10/10/29] ===============================================================
+[INFO] [01/07:23 10/10/51] ********************( Invoking the browser )**********************
+[INFO] [01/07:23 10/10/51] ===============================================================
+[INFO] [01/07:23 10/10/54] Launching browser sucessfully chrome
+[INFO] [01/07:23 10/10/55] https://acme-test.uipath.com/login invoked successfully
+[INFO] [01/07:23 10/10/58] Login_username_txtbox_id   and its value is	emailis returned the element 
+[INFO] [01/07:23 10/11/02] Login_password_txtbox_id   and its value is	passwordis returned the element 
+[INFO] [01/07:23 10/11/06] Login_signin_button_xpath   and its value is	//*[@type='submit']is returned the element 
+[INFO] [01/07:23 10/11/10] login Action completed  successfully
+[INFO] [01/07:23 10/11/11] browser closed successfully
+[INFO] [01/07:23 10/11/11] ***************************************** **********************
+[INFO] [01/07:23 10/11/11] ===============================================================
+[INFO] [01/07:23 10/11/11] ********************( Invoking the browser )**********************
+[INFO] [01/07:23 10/11/11] ===============================================================
+[INFO] [01/07:23 10/11/12] Launching browser sucessfully chrome
+[INFO] [01/07:23 10/11/13] https://acme-test.uipath.com/login invoked successfully
+[INFO] [01/07:23 10/11/17] Login_username_txtbox_id   and its value is	emailis returned the element 
+[INFO] [01/07:23 10/11/36] ********************( Invoking the browser )**********************
+[INFO] [01/07:23 10/11/36] ===============================================================
+[INFO] [01/07:23 10/11/38] Launching browser sucessfully chrome
+[INFO] [01/07:23 10/11/39] https://acme-test.uipath.com/login invoked successfully
+[INFO] [01/07:23 10/11/43] Login_username_txtbox_id   and its value is	emailis returned the element 
+[INFO] [01/07:23 10/11/47] Login_password_txtbox_id   and its value is	passwordis returned the element 
+[INFO] [01/07:23 10/11/50] Login_signin_button_xpath   and its value is	//*[@type='submit']is returned the element 
+[INFO] [01/07:23 10/11/55] login Action completed  successfully
+[INFO] [01/07:23 10/11/55] browser closed successfully
+[INFO] [01/07:23 10/11/55] ***************************************** **********************
+[INFO] [01/07:23 10/11/55] ===============================================================
+[INFO] [01/07:23 10/11/55] ********************( Invoking the browser )**********************
+[INFO] [01/07:23 10/11/55] ===============================================================
+[INFO] [01/07:23 10/11/57] Launching browser sucessfully chrome
+[INFO] [01/07:23 10/11/58] https://acme-test.uipath.com/login invoked successfully
+[INFO] [01/07:23 10/12/42] ********************( Invoking the browser )**********************
+[INFO] [01/07:23 10/12/42] ===============================================================
+[INFO] [01/07:23 10/12/44] Launching browser sucessfully chrome
+[INFO] [01/07:23 10/12/46] https://acme-test.uipath.com/login invoked successfully
+[INFO] [01/07:23 10/12/49] Login_username_txtbox_id   and its value is	emailis returned the element 
+[INFO] [01/07:23 10/12/53] Login_password_txtbox_id   and its value is	passwordis returned the element 
+[INFO] [01/07:23 10/12/56] Login_signin_button_xpath   and its value is	//*[@type='submit']is returned the element 
+[INFO] [01/07:23 10/13/03] login Action completed  successfully
+[INFO] [01/07:23 10/13/03] browser closed successfully
+[INFO] [01/07:23 10/13/03] ***************************************** **********************
+[INFO] [01/07:23 10/13/03] ===============================================================
+[INFO] [01/07:23 10/13/03] ********************( Invoking the browser )**********************
+[INFO] [01/07:23 10/13/03] ===============================================================
+[INFO] [01/07:23 10/13/04] Launching browser sucessfully chrome
+[INFO] [01/07:23 10/13/05] https://acme-test.uipath.com/login invoked successfully
+[INFO] [01/07:23 10/15/40] ********************( Invoking the browser )**********************
+[INFO] [01/07:23 10/15/40] ===============================================================
+[INFO] [01/07:23 10/15/43] Launching browser sucessfully chrome
+[INFO] [01/07:23 10/15/44] https://acme-test.uipath.com/login invoked successfully
+[INFO] [01/07:23 10/15/48] Login_username_txtbox_id   and its value is	emailis returned the element 
+[INFO] [01/07:23 10/15/51] Login_password_txtbox_id   and its value is	passwordis returned the element 
+[INFO] [01/07:23 10/15/55] Login_signin_button_xpath   and its value is	//*[@type='submit']is returned the element 
+[INFO] [01/07:23 10/16/00] login Action completed  successfully
+[INFO] [01/07:23 10/16/00] browser closed successfully
+[INFO] [01/07:23 10/16/00] ***************************************** **********************
+[INFO] [01/07:23 10/16/00] ===============================================================
+[INFO] [01/07:23 10/16/00] ********************( Invoking the browser )**********************
+[INFO] [01/07:23 10/16/00] ===============================================================
+[INFO] [01/07:23 10/16/01] Launching browser sucessfully chrome
+[INFO] [01/07:23 10/16/03] https://acme-test.uipath.com/login invoked successfully
+[INFO] [01/07:23 10/16/07] Login_username_txtbox_id   and its value is	emailis returned the element 
+[INFO] [01/07:23 10/16/10] Login_password_txtbox_id   and its value is	passwordis returned the element 
+[INFO] [01/07:23 10/16/14] Login_signin_button_xpath   and its value is	//*[@type='submit']is returned the element 
+[INFO] [01/07:23 10/16/14] login Action completed  successfully
+[INFO] [01/07:23 10/16/14] browser closed successfully
+[INFO] [01/07:23 10/16/14] ***************************************** **********************
+[INFO] [01/07:23 10/16/14] ===============================================================
+[INFO] [01/07:23 10/16/14] ********************( Invoking the browser )**********************
+[INFO] [01/07:23 10/16/14] ===============================================================
+[INFO] [01/07:23 10/16/16] Launching browser sucessfully chrome
+[INFO] [01/07:23 10/16/17] https://acme-test.uipath.com/login invoked successfully
+[INFO] [01/07:23 10/16/20] Login_username_txtbox_id   and its value is	emailis returned the element 
+[INFO] [01/07:23 10/16/24] Login_password_txtbox_id   and its value is	passwordis returned the element 
+[INFO] [01/07:23 10/16/27] Login_signin_button_xpath   and its value is	//*[@type='submit']is returned the element 
+[INFO] [01/07:23 10/16/28] login Action completed  successfully
+[INFO] [01/07:23 10/16/28] browser closed successfully
+[INFO] [01/07:23 10/16/28] ***************************************** **********************
+[INFO] [01/07:23 10/16/28] ===============================================================
+[INFO] [01/07:23 10/16/28] ********************( Invoking the browser )**********************
+[INFO] [01/07:23 10/16/28] ===============================================================
+[INFO] [01/07:23 10/16/29] Launching browser sucessfully chrome
+[INFO] [01/07:23 10/16/30] https://acme-test.uipath.com/login invoked successfully
+[INFO] [01/07:23 10/16/34] Login_username_txtbox_id   and its value is	emailis returned the element 
+[INFO] [01/07:23 10/16/37] Login_password_txtbox_id   and its value is	passwordis returned the element 
+[INFO] [01/07:23 10/16/41] Login_signin_button_xpath   and its value is	//*[@type='submit']is returned the element 
+[INFO] [01/07:23 10/16/41] login Action completed  successfully
+[INFO] [01/07:23 10/16/42] browser closed successfully
+[INFO] [01/07:23 10/16/42] ***************************************** **********************
+[INFO] [01/07:23 10/16/42] ===============================================================
+[INFO] [01/07:23 10/17/49] ********************( Invoking the browser )**********************
+[INFO] [01/07:23 10/17/49] ===============================================================
+[INFO] [01/07:23 10/17/52] Launching browser sucessfully chrome
+[INFO] [01/07:23 10/17/54] https://acme-test.uipath.com/login invoked successfully
+[INFO] [01/07:23 10/17/57] Login_username_txtbox_id   and its value is	emailis returned the element 
+[INFO] [01/07:23 10/18/01] Login_password_txtbox_id   and its value is	passwordis returned the element 
+[INFO] [01/07:23 10/18/05] Login_signin_button_xpath   and its value is	//*[@type='submit']is returned the element 
+[INFO] [01/07:23 10/18/10] login Action completed  successfully
+[INFO] [01/07:23 10/18/10] browser closed successfully
+[INFO] [01/07:23 10/18/10] ***************************************** **********************
+[INFO] [01/07:23 10/18/10] ===============================================================
+[INFO] [01/07:23 10/18/10] ********************( Invoking the browser )**********************
+[INFO] [01/07:23 10/18/10] ===============================================================
+[INFO] [01/07:23 10/18/11] Launching browser sucessfully chrome
+[INFO] [01/07:23 10/18/12] https://acme-test.uipath.com/login invoked successfully
+[INFO] [01/07:23 10/18/16] Login_username_txtbox_id   and its value is	emailis returned the element 
+[INFO] [01/07:23 10/18/19] Login_password_txtbox_id   and its value is	passwordis returned the element 
+[INFO] [01/07:23 10/18/23] Login_signin_button_xpath   and its value is	//*[@type='submit']is returned the element 
+[INFO] [01/07:23 10/18/23] login Action completed  successfully
+[INFO] [01/07:23 10/18/24] browser closed successfully
+[INFO] [01/07:23 10/18/24] ***************************************** **********************
+[INFO] [01/07:23 10/18/24] ===============================================================
+[INFO] [01/07:23 10/18/24] ********************( Invoking the browser )**********************
+[INFO] [01/07:23 10/18/24] ===============================================================
+[INFO] [01/07:23 10/18/25] Launching browser sucessfully chrome
+[INFO] [01/07:23 10/18/26] https://acme-test.uipath.com/login invoked successfully
+[INFO] [01/07:23 10/18/29] Login_username_txtbox_id   and its value is	emailis returned the element 
+[INFO] [01/07:23 10/18/33] Login_password_txtbox_id   and its value is	passwordis returned the element 
+[INFO] [01/07:23 10/18/37] Login_signin_button_xpath   and its value is	//*[@type='submit']is returned the element 
+[INFO] [01/07:23 10/18/37] login Action completed  successfully
+[INFO] [01/07:23 10/18/37] browser closed successfully
+[INFO] [01/07:23 10/18/37] ***************************************** **********************
+[INFO] [01/07:23 10/18/37] ===============================================================
+[INFO] [01/07:23 10/18/37] ********************( Invoking the browser )**********************
+[INFO] [01/07:23 10/18/37] ===============================================================
+[INFO] [01/07:23 10/18/38] Launching browser sucessfully chrome
+[INFO] [01/07:23 10/18/39] https://acme-test.uipath.com/login invoked successfully
+[INFO] [01/07:23 10/18/43] Login_username_txtbox_id   and its value is	emailis returned the element 
+[INFO] [01/07:23 10/18/47] Login_password_txtbox_id   and its value is	passwordis returned the element 
+[INFO] [01/07:23 10/18/50] Login_signin_button_xpath   and its value is	//*[@type='submit']is returned the element 
+[INFO] [01/07:23 10/18/50] login Action completed  successfully
+[INFO] [01/07:23 10/18/51] browser closed successfully
+[INFO] [01/07:23 10/18/51] ***************************************** **********************
+[INFO] [01/07:23 10/18/51] ===============================================================
+[INFO] [01/07:23 02/10/08] ********************( Invoking the browser )**********************
+[INFO] [01/07:23 02/10/08] ===============================================================
+[INFO] [01/07:23 02/10/16] Launching browser sucessfully chrome
+[INFO] [01/07:23 02/10/18] https://acme-test.uipath.com/login invoked successfully
+[INFO] [01/07:23 02/10/21] Login_username_txtbox_id   and its value is	emailis returned the element 
+[INFO] [01/07:23 02/10/25] Login_password_txtbox_id   and its value is	passwordis returned the element 
+[INFO] [01/07:23 02/10/29] Login_signin_button_xpath   and its value is	//*[@type='submit']is returned the element 
+[INFO] [01/07:23 02/10/34] login Action completed  successfully
+[INFO] [01/07:23 02/10/36] browser closed successfully
+[INFO] [01/07:23 02/10/36] ***************************************** **********************
+[INFO] [01/07:23 02/10/36] ===============================================================
+[INFO] [01/07:23 02/10/36] ********************( Invoking the browser )**********************
+[INFO] [01/07:23 02/10/36] ===============================================================
+[INFO] [01/07:23 02/10/38] Launching browser sucessfully chrome
+[INFO] [01/07:23 02/10/40] https://acme-test.uipath.com/login invoked successfully
+[INFO] [01/07:23 02/10/44] Login_username_txtbox_id   and its value is	emailis returned the element 
+[INFO] [01/07:23 02/10/47] Login_password_txtbox_id   and its value is	passwordis returned the element 
+[INFO] [01/07:23 02/10/51] Login_signin_button_xpath   and its value is	//*[@type='submit']is returned the element 
+[INFO] [01/07:23 02/10/51] login Action completed  successfully
+[INFO] [01/07:23 02/10/52] browser closed successfully
+[INFO] [01/07:23 02/10/52] ***************************************** **********************
+[INFO] [01/07:23 02/10/52] ===============================================================
+[INFO] [01/07:23 02/10/52] ********************( Invoking the browser )**********************
+[INFO] [01/07:23 02/10/52] ===============================================================
+[INFO] [01/07:23 02/10/54] Launching browser sucessfully chrome
+[INFO] [01/07:23 02/10/56] https://acme-test.uipath.com/login invoked successfully
+[INFO] [01/07:23 02/10/59] Login_username_txtbox_id   and its value is	emailis returned the element 
+[INFO] [01/07:23 02/11/03] Login_password_txtbox_id   and its value is	passwordis returned the element 
+[INFO] [01/07:23 02/11/07] Login_signin_button_xpath   and its value is	//*[@type='submit']is returned the element 
+[INFO] [01/07:23 02/11/07] login Action completed  successfully
+[INFO] [01/07:23 02/11/08] browser closed successfully
+[INFO] [01/07:23 02/11/08] ***************************************** **********************
+[INFO] [01/07:23 02/11/08] ===============================================================
+[INFO] [01/07:23 02/11/08] ********************( Invoking the browser )**********************
+[INFO] [01/07:23 02/11/08] ===============================================================
+[INFO] [01/07:23 02/11/10] Launching browser sucessfully chrome
+[INFO] [01/07:23 02/11/12] https://acme-test.uipath.com/login invoked successfully
+[INFO] [01/07:23 02/11/15] Login_username_txtbox_id   and its value is	emailis returned the element 
+[INFO] [01/07:23 02/11/19] Login_password_txtbox_id   and its value is	passwordis returned the element 
+[INFO] [01/07:23 02/11/22] Login_signin_button_xpath   and its value is	//*[@type='submit']is returned the element 
+[INFO] [01/07:23 02/11/23] login Action completed  successfully
+[INFO] [01/07:23 02/11/24] browser closed successfully
+[INFO] [01/07:23 02/11/24] ***************************************** **********************
+[INFO] [01/07:23 02/11/24] ===============================================================
+[INFO] [01/08:23 02/18/43] ********************( Invoking the browser )**********************
+[INFO] [01/08:23 02/18/43] ===============================================================
+[INFO] [01/08:23 02/18/45] Launching browser sucessfully chrome
+[INFO] [01/08:23 02/18/46] https://acme-test.uipath.com/login invoked successfully
+[INFO] [01/08:23 02/18/47] Login_username_txtbox_id   and its value is	emailis returned the element 
+[INFO] [01/08:23 02/18/49] Login_password_txtbox_id   and its value is	passwordis returned the element 
+[INFO] [01/08:23 02/18/51] Login_signin_button_xpath   and its value is	//*[@type='submit']is returned the element 
+[INFO] [01/08:23 02/18/55] login Action completed  successfully
+[INFO] [01/08:23 02/18/55] browser closed successfully
+[INFO] [01/08:23 02/18/55] ***************************************** **********************
+[INFO] [01/08:23 02/18/55] ===============================================================
+[INFO] [01/08:23 02/18/55] ********************( Invoking the browser )**********************
+[INFO] [01/08:23 02/18/55] ===============================================================
+[INFO] [01/08:23 02/18/57] Launching browser sucessfully chrome
+[INFO] [01/08:23 02/18/58] https://acme-test.uipath.com/login invoked successfully
+[INFO] [01/08:23 02/19/00] Login_username_txtbox_id   and its value is	emailis returned the element 
+[INFO] [01/08:23 02/19/02] Login_password_txtbox_id   and its value is	passwordis returned the element 
+[INFO] [01/08:23 02/19/03] Login_signin_button_xpath   and its value is	//*[@type='submit']is returned the element 
+[INFO] [01/08:23 02/19/03] login Action completed  successfully
+[INFO] [01/08:23 02/19/05] browser closed successfully
+[INFO] [01/08:23 02/19/05] ***************************************** **********************
+[INFO] [01/08:23 02/19/05] ===============================================================
+[INFO] [01/08:23 02/19/05] ********************( Invoking the browser )**********************
+[INFO] [01/08:23 02/19/05] ===============================================================
+[INFO] [01/08:23 02/19/07] Launching browser sucessfully chrome
+[INFO] [01/08:23 02/19/09] https://acme-test.uipath.com/login invoked successfully
+[INFO] [01/08:23 02/19/11] Login_username_txtbox_id   and its value is	emailis returned the element 
+[INFO] [01/08:23 02/19/12] Login_password_txtbox_id   and its value is	passwordis returned the element 
+[INFO] [01/08:23 02/19/14] Login_signin_button_xpath   and its value is	//*[@type='submit']is returned the element 
+[INFO] [01/08:23 02/19/15] login Action completed  successfully
+[INFO] [01/08:23 02/19/16] browser closed successfully
+[INFO] [01/08:23 02/19/16] ***************************************** **********************
+[INFO] [01/08:23 02/19/16] ===============================================================
+[INFO] [01/08:23 02/19/16] ********************( Invoking the browser )**********************
+[INFO] [01/08:23 02/19/16] ===============================================================
+[INFO] [01/08:23 02/19/18] Launching browser sucessfully chrome
+[INFO] [01/08:23 02/19/19] https://acme-test.uipath.com/login invoked successfully
+[INFO] [01/08:23 02/19/21] Login_username_txtbox_id   and its value is	emailis returned the element 
+[INFO] [01/08:23 02/19/22] Login_password_txtbox_id   and its value is	passwordis returned the element 
+[INFO] [01/08:23 02/19/24] Login_signin_button_xpath   and its value is	//*[@type='submit']is returned the element 
+[INFO] [01/08:23 02/19/24] login Action completed  successfully
+[INFO] [01/08:23 02/19/25] browser closed successfully
+[INFO] [01/08:23 02/19/25] ***************************************** **********************
+[INFO] [01/08:23 02/19/25] ===============================================================
+[INFO] [01/12:23 11/48/13] ********************( Invoking the browser )**********************
+[INFO] [01/12:23 11/48/13] ===============================================================
+[INFO] [01/12:23 11/48/17] Launching browser sucessfully chrome
+[INFO] [01/12:23 11/48/18] https://acme-test.uipath.com/login invoked successfully
+[INFO] [01/12:23 11/48/20] Login_username_txtbox_id   and its value is	emailis returned the element 
+[INFO] [01/12:23 11/48/22] Login_password_txtbox_id   and its value is	passwordis returned the element 
+[INFO] [01/12:23 11/48/23] Login_signin_button_xpath   and its value is	//*[@type='submit']is returned the element 
+[INFO] [01/12:23 11/48/28] login Action completed  successfully
+[INFO] [01/12:23 11/48/28] browser closed successfully
+[INFO] [01/12:23 11/48/28] ***************************************** **********************
+[INFO] [01/12:23 11/48/28] ===============================================================
+[INFO] [01/12:23 11/48/28] ********************( Invoking the browser )**********************
+[INFO] [01/12:23 11/48/28] ===============================================================
+[INFO] [01/12:23 11/48/30] Launching browser sucessfully chrome
+[INFO] [01/12:23 11/48/31] https://acme-test.uipath.com/login invoked successfully
+[INFO] [01/12:23 11/48/33] Login_username_txtbox_id   and its value is	emailis returned the element 
+[INFO] [01/12:23 11/48/34] Login_password_txtbox_id   and its value is	passwordis returned the element 
+[INFO] [01/12:23 11/48/36] Login_signin_button_xpath   and its value is	//*[@type='submit']is returned the element 
+[INFO] [01/12:23 11/48/36] login Action completed  successfully
+[INFO] [01/12:23 11/48/37] browser closed successfully
+[INFO] [01/12:23 11/48/37] ***************************************** **********************
+[INFO] [01/12:23 11/48/37] ===============================================================
+[INFO] [01/12:23 11/48/37] ********************( Invoking the browser )**********************
+[INFO] [01/12:23 11/48/37] ===============================================================
+[INFO] [01/12:23 11/48/39] Launching browser sucessfully chrome
+[INFO] [01/12:23 11/48/40] https://acme-test.uipath.com/login invoked successfully
+[INFO] [01/12:23 11/48/42] Login_username_txtbox_id   and its value is	emailis returned the element 
+[INFO] [01/12:23 11/48/43] Login_password_txtbox_id   and its value is	passwordis returned the element 
+[INFO] [01/12:23 11/48/45] Login_signin_button_xpath   and its value is	//*[@type='submit']is returned the element 
+[INFO] [01/12:23 11/48/45] login Action completed  successfully
+[INFO] [01/12:23 11/48/46] browser closed successfully
+[INFO] [01/12:23 11/48/46] ***************************************** **********************
+[INFO] [01/12:23 11/48/46] ===============================================================
+[INFO] [01/12:23 11/48/46] ********************( Invoking the browser )**********************
+[INFO] [01/12:23 11/48/46] ===============================================================
+[INFO] [01/12:23 11/48/48] Launching browser sucessfully chrome
+[INFO] [01/12:23 11/48/49] https://acme-test.uipath.com/login invoked successfully
+[INFO] [01/12:23 11/48/51] Login_username_txtbox_id   and its value is	emailis returned the element 
+[INFO] [01/12:23 11/48/52] Login_password_txtbox_id   and its value is	passwordis returned the element 
+[INFO] [01/12:23 11/48/54] Login_signin_button_xpath   and its value is	//*[@type='submit']is returned the element 
+[INFO] [01/12:23 11/48/54] login Action completed  successfully
+[INFO] [01/12:23 11/48/56] browser closed successfully
+[INFO] [01/12:23 11/48/56] ***************************************** **********************
+[INFO] [01/12:23 11/48/56] ===============================================================
+[INFO] [01/14:23 10/51/23] ********************( Invoking the browser )**********************
+[INFO] [01/14:23 10/51/23] ===============================================================
+[INFO] [01/14:23 10/51/26] Launching browser sucessfully chrome
+[INFO] [01/14:23 10/51/27] https://acme-test.uipath.com/login invoked successfully
+[INFO] [01/14:23 10/51/29] Login_username_txtbox_id   and its value is	emailis returned the element 
+[INFO] [01/14:23 10/51/31] Login_password_txtbox_id   and its value is	passwordis returned the element 
+[INFO] [01/14:23 10/51/32] Login_signin_button_xpath   and its value is	//*[@type='submit']is returned the element 
+[INFO] [01/14:23 10/51/36] login Action completed  successfully
+[INFO] [01/14:23 10/51/37] browser closed successfully
+[INFO] [01/14:23 10/51/37] ***************************************** **********************
+[INFO] [01/14:23 10/51/37] ===============================================================
+[INFO] [01/14:23 10/51/37] ********************( Invoking the browser )**********************
+[INFO] [01/14:23 10/51/37] ===============================================================
+[INFO] [01/14:23 10/51/38] Launching browser sucessfully chrome
+[INFO] [01/14:23 10/51/39] https://acme-test.uipath.com/login invoked successfully
+[INFO] [01/14:23 10/51/41] Login_username_txtbox_id   and its value is	emailis returned the element 
+[INFO] [01/14:23 10/51/42] Login_password_txtbox_id   and its value is	passwordis returned the element 
+[INFO] [01/14:23 10/51/44] Login_signin_button_xpath   and its value is	//*[@type='submit']is returned the element 
+[INFO] [01/14:23 10/51/44] login Action completed  successfully
+[INFO] [01/14:23 10/51/45] browser closed successfully
+[INFO] [01/14:23 10/51/45] ***************************************** **********************
+[INFO] [01/14:23 10/51/45] ===============================================================
+[INFO] [01/14:23 10/51/45] ********************( Invoking the browser )**********************
+[INFO] [01/14:23 10/51/45] ===============================================================
+[INFO] [01/14:23 10/51/47] Launching browser sucessfully chrome
+[INFO] [01/14:23 10/51/48] https://acme-test.uipath.com/login invoked successfully
+[INFO] [01/14:23 10/51/50] Login_username_txtbox_id   and its value is	emailis returned the element 
+[INFO] [01/14:23 10/51/52] Login_password_txtbox_id   and its value is	passwordis returned the element 
+[INFO] [01/14:23 10/51/53] Login_signin_button_xpath   and its value is	//*[@type='submit']is returned the element 
+[INFO] [01/14:23 10/51/53] login Action completed  successfully
+[INFO] [01/14:23 10/51/55] browser closed successfully
+[INFO] [01/14:23 10/51/55] ***************************************** **********************
+[INFO] [01/14:23 10/51/55] ===============================================================
+[INFO] [01/14:23 10/51/55] ********************( Invoking the browser )**********************
+[INFO] [01/14:23 10/51/55] ===============================================================
+[INFO] [01/14:23 10/51/56] Launching browser sucessfully chrome
+[INFO] [01/14:23 10/51/57] https://acme-test.uipath.com/login invoked successfully
+[INFO] [01/14:23 10/51/58] Login_username_txtbox_id   and its value is	emailis returned the element 
+[INFO] [01/14:23 10/52/00] Login_password_txtbox_id   and its value is	passwordis returned the element 
+[INFO] [01/14:23 10/52/02] Login_signin_button_xpath   and its value is	//*[@type='submit']is returned the element 
+[INFO] [01/14:23 10/52/02] login Action completed  successfully
+[INFO] [01/14:23 10/52/03] browser closed successfully
+[INFO] [01/14:23 10/52/03] ***************************************** **********************
+[INFO] [01/14:23 10/52/03] ===============================================================
+[INFO] [01/18:23 09/19/30] ********************( Invoking the browser )**********************
+[INFO] [01/18:23 09/19/30] ===============================================================
+[INFO] [01/18:23 09/19/36] Launching browser sucessfully chrome
+[INFO] [01/18:23 09/19/40] https://acme-test.uipath.com/login invoked successfully
+[INFO] [01/18:23 09/19/41] Login_username_txtbox_id   and its value is	emailis returned the element 
+[INFO] [01/18:23 09/19/43] Login_password_txtbox_id   and its value is	passwordis returned the element 
+[INFO] [01/18:23 09/19/45] Login_signin_button_xpath   and its value is	//*[@type='submit']is returned the element 
+[INFO] [01/18:23 09/19/50] login Action completed  successfully
+[INFO] [01/18:23 09/19/50] browser closed successfully
+[INFO] [01/18:23 09/19/50] ***************************************** **********************
+[INFO] [01/18:23 09/19/50] ===============================================================
+[INFO] [01/18:23 09/19/50] ********************( Invoking the browser )**********************
+[INFO] [01/18:23 09/19/50] ===============================================================
+[INFO] [01/18:23 09/19/52] Launching browser sucessfully chrome
+[INFO] [01/18:23 09/19/53] https://acme-test.uipath.com/login invoked successfully
+[INFO] [01/18:23 09/19/55] Login_username_txtbox_id   and its value is	emailis returned the element 
+[INFO] [01/18:23 09/19/56] Login_password_txtbox_id   and its value is	passwordis returned the element 
+[INFO] [01/18:23 09/19/58] Login_signin_button_xpath   and its value is	//*[@type='submit']is returned the element 
+[INFO] [01/18:23 09/19/58] login Action completed  successfully
+[INFO] [01/18:23 09/20/00] browser closed successfully
+[INFO] [01/18:23 09/20/00] ***************************************** **********************
+[INFO] [01/18:23 09/20/00] ===============================================================
+[INFO] [01/18:23 09/20/00] ********************( Invoking the browser )**********************
+[INFO] [01/18:23 09/20/00] ===============================================================
+[INFO] [01/18:23 09/20/02] Launching browser sucessfully chrome
+[INFO] [01/18:23 09/20/03] https://acme-test.uipath.com/login invoked successfully
+[INFO] [01/18:23 09/20/05] Login_username_txtbox_id   and its value is	emailis returned the element 
+[INFO] [01/18:23 09/20/06] Login_password_txtbox_id   and its value is	passwordis returned the element 
+[INFO] [01/18:23 09/20/08] Login_signin_button_xpath   and its value is	//*[@type='submit']is returned the element 
+[INFO] [01/18:23 09/20/08] login Action completed  successfully
+[INFO] [01/18:23 09/20/09] browser closed successfully
+[INFO] [01/18:23 09/20/09] ***************************************** **********************
+[INFO] [01/18:23 09/20/09] ===============================================================
+[INFO] [01/18:23 09/20/09] ********************( Invoking the browser )**********************
+[INFO] [01/18:23 09/20/09] ===============================================================
+[INFO] [01/18:23 09/20/11] Launching browser sucessfully chrome
+[INFO] [01/18:23 09/20/13] https://acme-test.uipath.com/login invoked successfully
+[INFO] [01/18:23 09/20/14] Login_username_txtbox_id   and its value is	emailis returned the element 
+[INFO] [01/18:23 09/20/16] Login_password_txtbox_id   and its value is	passwordis returned the element 
+[INFO] [01/18:23 09/20/17] Login_signin_button_xpath   and its value is	//*[@type='submit']is returned the element 
+[INFO] [01/18:23 09/20/18] login Action completed  successfully
+[INFO] [01/18:23 09/20/19] browser closed successfully
+[INFO] [01/18:23 09/20/19] ***************************************** **********************
+[INFO] [01/18:23 09/20/19] ===============================================================
+[INFO] [01/18:23 12/52/51] ********************( Invoking the browser )**********************
+[INFO] [01/18:23 12/52/51] ===============================================================
+[INFO] [01/18:23 12/53/00] Launching browser sucessfully chrome
+[INFO] [01/18:23 12/53/01] https://acme-test.uipath.com/login invoked successfully
+[INFO] [01/18:23 12/53/03] Login_username_txtbox_id   and its value is	emailis returned the element 
+[INFO] [01/18:23 12/53/05] Login_password_txtbox_id   and its value is	passwordis returned the element 
+[INFO] [01/18:23 12/53/07] Login_signin_button_xpath   and its value is	//*[@type='submit']is returned the element 
+[INFO] [01/18:23 12/53/12] login Action completed  successfully
+[INFO] [01/18:23 12/53/13] browser closed successfully
+[INFO] [01/18:23 12/53/13] ***************************************** **********************
+[INFO] [01/18:23 12/53/13] ===============================================================
+[INFO] [01/18:23 12/53/13] ********************( Invoking the browser )**********************
+[INFO] [01/18:23 12/53/13] ===============================================================
+[INFO] [01/18:23 12/53/17] Launching browser sucessfully chrome
+[INFO] [01/18:23 12/53/18] https://acme-test.uipath.com/login invoked successfully
+[INFO] [01/18:23 12/53/19] Login_username_txtbox_id   and its value is	emailis returned the element 
+[INFO] [01/18:23 12/53/21] Login_password_txtbox_id   and its value is	passwordis returned the element 
+[INFO] [01/18:23 12/53/23] Login_signin_button_xpath   and its value is	//*[@type='submit']is returned the element 
+[INFO] [01/18:23 12/53/23] login Action completed  successfully
+[INFO] [01/18:23 12/53/23] browser closed successfully
+[INFO] [01/18:23 12/53/23] ***************************************** **********************
+[INFO] [01/18:23 12/53/23] ===============================================================
+[INFO] [01/18:23 12/53/23] ********************( Invoking the browser )**********************
+[INFO] [01/18:23 12/53/23] ===============================================================
+[INFO] [01/18:23 12/53/25] Launching browser sucessfully chrome
+[INFO] [01/18:23 12/53/27] https://acme-test.uipath.com/login invoked successfully
+[INFO] [01/18:23 12/53/28] Login_username_txtbox_id   and its value is	emailis returned the element 
+[INFO] [01/18:23 12/53/30] Login_password_txtbox_id   and its value is	passwordis returned the element 
+[INFO] [01/18:23 12/53/32] Login_signin_button_xpath   and its value is	//*[@type='submit']is returned the element 
+[INFO] [01/18:23 12/53/32] login Action completed  successfully
+[INFO] [01/18:23 12/53/33] browser closed successfully
+[INFO] [01/18:23 12/53/33] ***************************************** **********************
+[INFO] [01/18:23 12/53/33] ===============================================================
+[INFO] [01/18:23 12/53/33] ********************( Invoking the browser )**********************
+[INFO] [01/18:23 12/53/33] ===============================================================
+[INFO] [01/18:23 12/53/35] Launching browser sucessfully chrome
+[INFO] [01/18:23 12/53/36] https://acme-test.uipath.com/login invoked successfully
+[INFO] [01/18:23 12/53/38] Login_username_txtbox_id   and its value is	emailis returned the element 
+[INFO] [01/18:23 12/53/40] Login_password_txtbox_id   and its value is	passwordis returned the element 
+[INFO] [01/18:23 12/53/41] Login_signin_button_xpath   and its value is	//*[@type='submit']is returned the element 
+[INFO] [01/18:23 12/53/42] login Action completed  successfully
+[INFO] [01/18:23 12/53/42] browser closed successfully
+[INFO] [01/18:23 12/53/42] ***************************************** **********************
+[INFO] [01/18:23 12/53/42] ===============================================================
